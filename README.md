@@ -1,24 +1,5 @@
-# README
+# rails project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+From the Odin Project's [curriculum] (https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://tutorials.jumpstartlab.com/projects/blogger.html#i0:-up-and-running
